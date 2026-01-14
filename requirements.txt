@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+joblib
+Flask
+Flask-Cors
+matplotlib
+seaborn
+
+# Optional (for notebook development)
+notebook
+jupyterlab
